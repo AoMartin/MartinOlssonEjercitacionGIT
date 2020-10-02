@@ -1,5 +1,5 @@
 Principales Paradigmas: 
-- Programación Estructurada
-- Programación Orientada a Objetos
-- Programación Funcional
-- Programación Reactiva
+- Programación Estructurada: Es un modelo unidimensional y rápido. Recurre a subrutinas y tres estructuras básicas: secuencia, selección e iteración. Tiene tendencia a repetir código.
+- Programación Orientada a Objetos: Es un paradigma que organiza las funcionalidades en entidades llamadas objetos.
+- Programación Funcional: Es un paradigma declarativo (se centra en el qué y no en el cómo). Está basado en el cálculo LAMBDA y concibe al programa como una colección de funciones matemáticas.
+- Programación Reactiva: Es un paradigma para operar y manejar streams (flujo) de datos asincrónicos (no sabemos cuándo se producirán o cuándo llegarán a nuestro sistema). Es decir, directrices de cómo debemos programar nuestro sistema para trabajar con datos que no sabemos cuándo se generan, pero que queremos reaccionar y actuar en consecuencia.
